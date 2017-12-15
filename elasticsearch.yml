@@ -1,0 +1,3 @@
+/etc/elasticsearch/elasticsearch.yml : /test/elasticsearch/data
+#node.master: false 
+#node.data: true
